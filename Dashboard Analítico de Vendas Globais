@@ -1,7 +1,9 @@
 O seguinte Dashboard mostra:
 - O Total de Vendas;
 - Quantas vendas foram realizadas por categoria de produto;
-- Quantas vendas foram realizadas por país considerando a prioridade de entrega.  
+- Quantas vendas foram realizadas por país considerando a prioridade de entrega; 
+- Média de desconto nas vendas por subcategoria de produto;
+- Países que tiveram maior média de valor de venda.
 
 Segue o link para visualização na web:
 https://app.powerbi.com/view?r=eyJrIjoiYjI2YmVkNTAtMjdiNy00YTI3LTg4MTItNzRlNmQ4YTQyN2M3IiwidCI6IjVmYmVmMjIwLTc5ZjAtNGI4ZS1iMTY1LTlhMGZiNDA5Y2ZkYiJ9
