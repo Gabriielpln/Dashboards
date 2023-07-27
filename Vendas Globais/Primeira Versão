@@ -1,11 +1,15 @@
 Essa é a primeira versão do meu primeiro Dashboard com Power BI.
 
-O seguinte Dashboard mostra:
-- O Total de Vendas;
-- Quantas vendas foram realizadas por categoria de produto;
-- Quantas vendas foram realizadas por país considerando a prioridade de entrega; 
-- Média de desconto nas vendas por subcategoria de produto;
-- Países que tiveram maior média de valor de venda.
+link para visualização: https://app.powerbi.com/view?r=eyJrIjoiYjI2YmVkNTAtMjdiNy00YTI3LTg4MTItNzRlNmQ4YTQyN2M3IiwidCI6IjVmYmVmMjIwLTc5ZjAtNGI4ZS1iMTY1LTlhMGZiNDA5Y2ZkYiJ9
 
-Segue o link para visualização na web:
-https://app.powerbi.com/view?r=eyJrIjoiYjI2YmVkNTAtMjdiNy00YTI3LTg4MTItNzRlNmQ4YTQyN2M3IiwidCI6IjVmYmVmMjIwLTc5ZjAtNGI4ZS1iMTY1LTlhMGZiNDA5Y2ZkYiJ9
+- O seguinte DashBoard responde à estas perguntas de negócio:
+
+•Pergunta 1 -Qual o valor total vendido?
+
+•Pergunta 2 -Quantas vendas foram realizadas por categoria de produto?
+
+•Pergunta 3 -Quantas vendas foram realizadas por país considerando a prioridade de entrega?
+
+•Pergunta 4 -Qual foi a média de desconto nas vendas por subcategoria de produto?
+
+•Pergunta 5 -Quais países tiveram maior média de valor de venda?
