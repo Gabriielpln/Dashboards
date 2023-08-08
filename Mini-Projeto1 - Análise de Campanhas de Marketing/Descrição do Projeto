@@ -1,0 +1,21 @@
+# Visão Comportamento (Página 2)
+- Gráfico: Total de Gastos x Salário Anual (primeiro gráfico):
+
+Observei a presença de dados atípicos. Para abordar essa questão, considerei duas possíveis soluções. Primeiramente, implementei a opção de alterar a
+escala para logarítmica durante a formatação dos dados, uma alternativa viável. Além disso, também optei por remover o outlier utilizando o Power Query.
+Nesse processo, procedi com a filtragem com base na condição de Salário Anual > Class, seguindo uma ordem decrescente.
+
+No tópico relacionado ao gráfico de Total de Gastos x Salário anual, identifiquei uma discrepância significativa entre o segundo salário mais alto e
+o primeiro, o que se afastava consideravelmente da média. Para abordar essa divergência, procedi à exclusão desse ponto de dados, visto que era uma anomalia.
+
+
+# Variável TotalGasto
+Havia muitas colunas de gastos diferentes e separadas, usei a função do Power Bi para juntar todos os gastos em uma nova variável TotalGasto.
+
+
+# Visão Comportamento (Página 2)
+- Gráfico: Total de Gastos x Crianças em Casa (terceiro gráfico):
+
+No contexto do Gráfico de Total Gasto em relação ao número de Crianças em Casa, levantei a questão sobre se quem possui menos filhos gasta mais. A correlação observada
+pode ser explicada pelo fato de que, neste conjunto de dados, o estado civil mais frequente é o de solteiro. Isso é coerente devido ao perfil dos clientes, uma vez que 
+indivíduos solteiros tendem a gastar mais consigo mesmos (animais de estimação, viagens, entre outros).
